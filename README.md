@@ -1,26 +1,21 @@
 # Junior AI Lab 
 
-Welcome to the **Junior AI Lab**! This repository is a comprehensive collection of artificial intelligence and data science projects specifically designed for students aged 10-17. It bridges the gap between foundational programming and high-impact real-world AI applications.
+Welcome to **Junior AI Lab**, a dedicated project-based repository designed to bridge the gap between foundational programming and high-impact Artificial Intelligence. This lab focuses on solving real-world challenges through Python, Computer Vision, and Machine Learning.
 
 ##  Mission
-Our goal is to empower the next generation of engineers to solve complex social and industrial problems using **Python**, **Machine Learning**, and **Computer Vision**.
+To transform students from technology consumers into **AI creators**, empowering them to build intelligent solutions for social, environmental, and industrial challenges.
 
-##  Curricula Overview
+##  Core Learning Focus
 
-### 🔹 Group A: Junior Explorers (Ages 10-12)
-[cite_start]Focuses on the transition from block-based logic (mBlock) to text-based AI foundations[cite: 2, 22].
-* [cite_start]**Foundations:** Python syntax, variables, operators, loops (while/for), and functions[cite: 23, 36, 37, 43].
-* [cite_start]**AI Logic:** Introduction to Regression (Linear, Multiple, Polynomial, Logistic) and Classification (Decision Trees, Random Forest, KNN)[cite: 59, 60, 61, 63, 65, 66, 67].
-* [cite_start]**Key Projects:** Hangman, Tic-Tac-Toe, Chatbots, Airbnb Pricing Algorithm, AI Weather App, and Image-based Animal Classification[cite: 46, 48, 53, 68, 70, 71].
+* **Algorithmic Thinking:** Transitioning from basic logic to advanced Python architecture and control flow.
+* **Predictive Modeling:** Mastering the intuition and implementation of Regression (Linear, Polynomial, Logistic).
+* **Classification & Decision Logic:** Implementing decision-making models using Decision Trees, Random Forest, and KNN.
+* **Software Architecture:** Advanced design patterns using Object-Oriented Programming (OOP) and Persistent Data Management.
+* **Computer Vision:** Real-time image processing, filtering, and feature analysis with **OpenCV**.
+* **Deep Learning:** Architecting and training Neural Networks (ANN/CNN) with **TensorFlow** and **Keras**.
+* **Natural Language Processing:** Developing AI Agents and interaction models using Transformers, BERT, and GPT.
 
-### 🔹 Group B: Future Engineers (Ages 13-17)
-[cite_start]Advanced implementation of professional AI frameworks and methodologies[cite: 82, 93, 116].
-* [cite_start]**Advanced Python:** Object-Oriented Programming (OOP) and Data Management (File I/O & Databases)[cite: 94, 95].
-* [cite_start]**Data Science:** Data processing with **Pandas/NumPy** and visualization via **Matplotlib/Seaborn**[cite: 123, 124, 147, 148].
-* [cite_start]**Deep Learning & CV:** Building Neural Networks (ANN/CNN) with **TensorFlow/Keras** and real-time image processing with **OpenCV**[cite: 100, 126, 127, 161, 162].
-* [cite_start]**Natural Language Processing (NLP):** Working with Transformers, GPT, and BERT models to build advanced AI Agents and Chatbots[cite: 119, 131, 169, 170, 173].
-
-## 🛠️ Tech Stack
-* **Language:** Python
-* **Libraries:** OpenCV, Scikit-learn, TensorFlow, Keras, Pandas, NumPy, Matplotlib, Seaborn.
-* **Concepts:** KNN, Regression, CNN, LSTM, Transformers, NLP, AI Agents.
+## 🛠️ Tech Stack & Skills
+* **Programming Language:** Python
+* **Frameworks & Libraries:** TensorFlow, Keras, OpenCV, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn.
+* **Technical Concepts:** CNN, LSTM, Transformers, NLP, Predictive Analytics, Image Segmentation, and Data Persistence.
