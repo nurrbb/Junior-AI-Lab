@@ -1,0 +1,4 @@
+HastaAhmet | Veri: [75, 5] | Sonuc: Normal
+Hastaahmet | Veri: [75, 5] | Sonuc: Normal
+HastaAyse | Veri: [42, 1] | Sonuc: ACIL DURUM: DUSME
+Hastaayse | Veri: [23, 1] | Sonuc: ACIL DURUM: DUSME
