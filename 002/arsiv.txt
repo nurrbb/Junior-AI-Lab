@@ -1,0 +1,7 @@
+yıldızlararası;7;bilim kurgu
+twilight ; 6 ; romantik
+knives out  ; 7 ; polisiye
+james bond ; 6 ; polisiyes
+herlock holmes ; 5 ; polisiye
+star trek ; 8 ; bilim kurgu
+gurur ve önyargı ; 7 ; romantik 
