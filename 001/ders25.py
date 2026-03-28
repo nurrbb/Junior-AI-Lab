@@ -74,14 +74,13 @@ import pandas as pd
 from sklearn.linear_model import LinearRegression
 from sklearn.tree import DecisionTreeClassifier
 
-# 1. VERİLER VE MODELLER (Hızlı Eğitim)
-# ------------------------------------------
 # Stok Modeli
 df_stok = pd.DataFrame({
     'gecmis': [50, 60, 100, 40, 90, 30],
     'hava': [0, 0, 1, 1, 0, 1], # 0:Güneş, 1:Yağmur
     'talep': [55, 62, 115, 42, 95, 35]
 })
+
 ai_stok = LinearRegression().fit(df_stok[['gecmis', 'hava']].values, df_stok['talep'])
 
 # Risk Modeli
@@ -92,7 +91,6 @@ df_risk = pd.DataFrame({
 })
 ai_risk = DecisionTreeClassifier().fit(df_risk[['gun', 'isi']].values, df_risk['durum'])
 
-# 2. ANA PROGRAM
 print("--- MARKET ANALİZ SİSTEMİ ---")
 
 while True:
